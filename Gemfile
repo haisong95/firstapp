@@ -1,5 +1,7 @@
-source "https://rubygems.org"
+source :rubygems
 
 gem 'sinatra'
 gem 'thin'
-ruby "2.0.0"
+
+source "https://rubygems.org"
+ruby '2.0.0'
