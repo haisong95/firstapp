@@ -1,7 +1,7 @@
 GEM
   source: https://rubygems.org/
   specs:
-    ruby "2.0.0"
+    ruby '2.0.0'
     daemons (1.1.9)
     eventmachine (1.0.0)
     rack (1.5.2)
