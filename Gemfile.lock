@@ -1,7 +1,5 @@
 GEM
   remote: https://rubygems.org/
-  source: https://rubygems.org/
-  ruby "2.0.0"
   specs:
     daemons (1.1.9)
     eventmachine (1.0.0)
